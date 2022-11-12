@@ -1,0 +1,28 @@
+<html>
+
+<head> Javascript Events</head>
+
+<body>
+
+<h2> Enter something here</h2>
+
+<input type="text" id="input1"
+onkeydown="keyupevent()"/>
+
+<script>
+
+function keyupevent()
+
+{
+
+document.getElementById("input1");
+
+alert("realesed a key");
+
+}
+
+</script>
+
+</body>
+
+</html>
