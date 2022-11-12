@@ -1,0 +1,14 @@
+html>
+        <body>
+        <script>
+                function sum(x,y)
+{
+        //var x=100,y=100;
+        document.write(x+y)
+        //return x+y;
+}
+ sum(100,20);
+//document.write(re);
+        </script>
+        </body>
+</html>
