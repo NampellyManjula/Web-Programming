@@ -1,0 +1,22 @@
+<html>
+
+<head> Javascript Events</head>
+
+<body>
+
+<h2> Enter something here</h2>
+
+<input type="text" id="input1" onfocus="textfocus()"/>
+
+<script>
+
+
+
+function textfocus()
+
+{
+
+document.getElementById("input1").style.background=" aqua";
+}
+</script><\body>
+</html>
